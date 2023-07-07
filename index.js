@@ -3,7 +3,7 @@ const mainContentLetter = "Gửi lời nhắn nhủ đến người bạn bạn 
 
 // Gắn 1 đường link ảnh bất kì
 let imgStart = document.querySelector(".myAI"); //Hình ảnh xuất hiện trong lời mở đầu của bức thư
-imgStart.src = "./img/cute-young-boy-kid-wearing-vest-and-hat-free-png.png";
+imgStart.src = "./img/807bb36b-f2d3-40ad-85fc-3390ba038cd1.png";
 
 // Gắn 1 link ảnh bất kì
 let imgLetter = document.querySelector(".img");
